@@ -70,3 +70,54 @@ pre {
 .ruby .comment {
     color: rgb(92, 99, 112);
 }
+
+/* C lang syntax */
+.c .reserved {
+    color: rgb(240, 46, 240);
+}
+.c .builtins {
+    color: rgb(43, 186, 197);
+}
+.c .function {
+    color: rgb(82, 173, 242);
+}
+.c .strings {
+    color: rgb(135, 198, 118);
+}
+.c .comment {
+    color: rgb(92, 99, 112);
+}
+
+/* C++ syntax */
+.cpp .reserved {
+    color: rgb(240, 46, 240);
+}
+.cpp .builtins {
+    color: rgb(43, 186, 197);
+}
+.cpp .function {
+    color: rgb(82, 173, 242);
+}
+.cpp .strings {
+    color: rgb(135, 198, 118);
+}
+.cpp .comment {
+    color: rgb(92, 99, 112);
+}
+
+/* java syntax */
+.java .reserved {
+    color: rgb(240, 46, 240);
+}
+.java .builtins {
+    color: rgb(43, 186, 197);
+}
+.java .function {
+    color: rgb(82, 173, 242);
+}
+.java .strings {
+    color: rgb(135, 198, 118);
+}
+.java .comment {
+    color: rgb(92, 99, 112);
+}
